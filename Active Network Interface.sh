@@ -5,9 +5,9 @@
 # <bitbar.author>Zachary O. Toups</bitbar.author>
 # <bitbar.author.github>toupsz</bitbar.author.github>
 # <bitbar.desc>Displays an emoji to indicate if the active network interface is wifi or another connection.</bitbar.desc>
-# <bitbar.image>http://www.hosted-somewhere/pluginimage</bitbar.image>
+# <bitbar.image>https://dept-wp.nmsu.edu/pixl/files/2018/06/EANII-image.png</bitbar.image>
 # <bitbar.dependencies>bash</bitbar.dependencies>
-# <bitbar.abouturl>http://url-to-about.com/</bitbar.abouturl>
+# <bitbar.abouturl>https://github.com/toupsz/emoji-active-network-interface-indicator</bitbar.abouturl>
 
 # Text above --- displays an antenna emoji if the active network interface name contains "Wi-Fi", shows a plug otherwise.
 
